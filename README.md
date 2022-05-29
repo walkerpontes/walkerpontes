@@ -1,10 +1,8 @@
-### Oi!! Eu sou Walker Pontes👋
-
-- 🌱 Eu estudo Java e MySql.
-- 👯 Me pretendo tornar um FullStack.
-- 🏫 Atualmente eu estudo Back-end pela Alura.
-- 📫 Meu contato de email: walkerpontess@gmail.com
-- 😄 Pronouns: Ele/Dele
+<div>
+   <h1 align="center">Oi!! Eu sou Walker Pontes😃️</h1>
+   <p align="center"> Eu estudo programação na <a href="https://cursos.alura.com.br/user/walkerpontess"><i>Alura</i></a>👨‍💻</h2>
+   <p align="center">Sou uma pessoa que atrás de entender como as máquinas💻</h2>
+</div>
 
 
 ## 

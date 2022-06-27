@@ -22,6 +22,8 @@
    <img align="center" alt="Walker-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Walker-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Walker-IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg">
+   <img align="center" alt="Walker-Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+   <img align="center" alt="Walker-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
  </div><br>
    
   

@@ -7,18 +7,18 @@
 
 ## 
 
-
-<div align="center">
-  <a href="https://github.com/walkerpontes">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=walkerpontes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkerpontes&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=walkerpontes&rank_icon=github&custom_title=Walker%20Pontes&show_icons=true&include_all_commits=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=walkerpontes&rank_icon=github&custom_title=Walker%20Pontes&show_icons=true&include_all_commits=true&theme=prussian)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=walkerpontes&layout=compact&langs_count=20&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=walkerpontes&layout=compact&langs_count=20&theme=prussian)
    
   
   
  <div align="center" valign="top"><br>
-  <img align="center" alt="Walker-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Walker-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="Walker-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Walker-Csharp" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Walker-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+   <img align="center" alt="Walker-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
+   <img align="center" alt="Walker-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="Walker-Dck" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
    <img align="center" alt="Walker-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Walker-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Walker-IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg">

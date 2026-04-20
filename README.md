@@ -1,7 +1,7 @@
 <div>
    <h1 align="center">Oi!! Eu sou Walker Pontes😃️</h1>
-   <p align="center"> Eu estudo programação na <a href="https://cursos.alura.com.br/user/walkerpontess"><i>Alura</i></a>👨‍💻</h2>
-   <p align="center">Sou uma pessoa que está atrás de entender as máquinas💻</h2>
+   <p align="center"> Eu estudo programação na <a href="https://cursos.alura.com.br/user/walkerpontess"><i>Alura</i></a>👨‍💻</p>
+   <p align="center">Sou uma pessoa que está atrás de entender as máquinas💻</p>
 </div>
 
 
@@ -12,19 +12,23 @@
    
   
   
- <div align="center" valign="top"><br>
-   <img align="center" alt="Walker-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Walker-Csharp" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Walker-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-   <img align="center" alt="Walker-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
-   <img align="center" alt="Walker-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-   <img align="center" alt="Walker-Dck" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-   <img align="center" alt="Walker-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Walker-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-   <img align="center" alt="Walker-IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg">
-   <img align="center" alt="Walker-Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-   <img align="center" alt="Walker-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
- </div><br>
+ <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="40" /></td>
+    </tr>
+  </table>
+</div>
    
   
   <div align="center">
@@ -37,8 +41,11 @@
     
    
    <div align="center">
-  
-  ![Snake animation](https://github.com/walkerpontes/walkerpontes/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkerpontes/walkerpontes/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walkerpontes/walkerpontes/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/walkerpontes/walkerpontes/output/snake.svg">
+  </picture>
   
 </div>
     

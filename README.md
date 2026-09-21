@@ -1,6 +1,5 @@
 <div>
    <h1 align="center">Oi!! Eu sou Walker Pontes😃️</h1>
-   <p align="center"> Eu estudo programação na <a href="https://cursos.alura.com.br/user/walkerpontess"><i>Alura</i></a>👨‍💻</p>
    <p align="center">Sou uma pessoa que está atrás de entender as máquinas💻</p>
 </div>
 
